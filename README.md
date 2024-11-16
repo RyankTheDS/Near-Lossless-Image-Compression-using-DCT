@@ -1,3 +1,17 @@
+Link to dataset can be found here:
+----------------------------------
+https://drive.google.com/drive/folders/1gE15xWWPXLrdZ5PVFF7f5gj3ualeTEp9?usp=drive_link
+https://github.com/RyankTheDS/Near-Lossless-Image-Compression-using-DCT/tree/main/images
+
+Source Code
+-----------
+Source code is in the form of Google Colab notebook
+
+Uploading Image
+---------------
+You may either upload it manually or use the command line to do so
+You only have to upload 1 image, which means you should manually upload or execute the wget command only once
+
 My team would like to express our gratitude to the following list of references used to complete our assignment:
 
 Abdulazeez, A., Zeebaree, D., Zebari, D., Zebari, G. & Adeen, I. 2020, 'The applications of Discrete Wavelet Transform in image Processing: a review,' Journal of Computing and Data Mining, vol. 1, no. 2, viewed 3 August 2024, <https://publisher.uthm.edu.my/ojs/index.php/jscdm/article/download/7215/3935/30309>.
